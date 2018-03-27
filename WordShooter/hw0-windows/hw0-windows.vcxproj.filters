@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="util.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wordshooter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CImg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="SampleImages\b.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\c.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\d.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\e.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\f.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\g.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\h.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\i.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\j.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\k.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\l.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\m.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\n.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\o.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\p.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\q.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\r.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\s.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\t.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\u.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\v.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\w.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\x.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\y.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\z.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SampleImages\a.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="image-data.bin">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="words_alpha.txt" />
+  </ItemGroup>
+</Project>
